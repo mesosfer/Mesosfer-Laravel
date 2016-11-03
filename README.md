@@ -1,4 +1,4 @@
-# Mesosfer Codeigniter #
+# Mesosfer Laravel #
 
 
 There are several laravel sample project in Mesosfer cloud platform. 
